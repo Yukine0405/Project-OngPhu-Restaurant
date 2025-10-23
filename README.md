@@ -4,10 +4,12 @@
 Dự án được phát triển trong môn *Nhập môn Kỹ thuật Phần mềm*, mục tiêu xây dựng hệ thống đặt bàn trực tuyến giúp khách hàng có thể đặt bàn nhanh chóng, quản lý đặt chỗ tiện lợi.
 
 ## 👥 Thành viên nhóm
-- Dương Ngô Nhất – Thiết kế giao diện & biểu đồ UML  
-- [Tên khác] – CSDL & Java  
-- [Tên khác] – Test & Báo cáo  
-
+- Dương Ngô Nhất – Thiết kế giao diện
+- Phạm Châu Lương Phú – CSDL 
+- Như Lê Hoàng Minh – Test & Báo cáo  
+- Hoàng Nguyên - Java
+- Vinh Bảo -  Test & Báo cáo
+- Minh Khôi - Thiết kế biểu đồ UML
 ## ⚙️ Công nghệ sử dụng
 - **Ngôn ngữ:** Java (NetBeans)  
 - **CSDL:** MS SQL Server  
