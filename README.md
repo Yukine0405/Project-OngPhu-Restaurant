@@ -20,5 +20,3 @@ Dự án được phát triển trong môn *Nhập môn Kỹ thuật Phần mề
 - Quản lý danh sách bàn và khách hàng  
 - Quản lý lịch sử đặt bàn  
 - Tích hợp xác nhận qua email (tùy chọn)
-
-## 🗂 Cấu trúc thư mục
